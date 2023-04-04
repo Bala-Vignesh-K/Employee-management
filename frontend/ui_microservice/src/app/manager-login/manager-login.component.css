@@ -1,0 +1,17 @@
+/*
+*
+* ==========================================
+* CUSTOM UTIL CLASSES
+* ==========================================
+*
+*/
+.login,
+.image {
+  min-height: 100vh;
+}
+
+.bg-image {
+  background-image: url('https://web-static.wrike.com/blog/content/uploads/2017/06/blogpost_image_program-manager-vs-project-manager.jpg?av=b2973e52badbf61b6c5cf5ae81abd1a8');
+  background-size: cover;
+  background-position: center center;
+}
